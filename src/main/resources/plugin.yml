@@ -1,0 +1,11 @@
+name: Duels
+version: '1.0'
+main: org.morkofff.duels.Duels
+api-version: '1.21'
+authors: [ Morkofff ]
+
+commands:
+  start:
+    usage: /start
+  test:
+    usage: /test
